@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Alcantara",
+        "price": 25000
+    },
+    {
+        "id": 2,
+        "name": "ParaAguas",
+        "price": 250
+    },
+    {
+        "id": 3,
+        "name": "MAC",
+        "price": 250292792802
+    },
+    {
+        "id": 4,
+        "name": "PS5",
+        "price": 66918
+    }
+]
